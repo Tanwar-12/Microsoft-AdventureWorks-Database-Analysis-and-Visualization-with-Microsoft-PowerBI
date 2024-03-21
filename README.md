@@ -16,16 +16,14 @@ i. Entity Relationship Diagram Model
 ![image](https://github.com/Tanwar-12/Microsoft-AdventureWorks-Database-Analysis-and-Visualization-with-Microsoft-PowerBI/assets/110081008/6fc3b472-2368-49c1-b01f-4f51190fd484)
 
 
-1  Model Relations
-
 ii. Sales Overview DASHBOARD
 
-2  Sales Overview
+
 
 iii. Customer Details DASHBOARD
 
-3  Customer Details
+
 
 iv. Product Details DASHBOARD
 
-4  Product Details
+
