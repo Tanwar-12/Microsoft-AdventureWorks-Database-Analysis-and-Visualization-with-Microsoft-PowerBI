@@ -13,13 +13,17 @@ Visualization Tool: "Microsoft Power BI"
 
 ## DATA VISUALIZATION
 i. Entity Relationship Diagram Model
+
 1  Model Relations
 
 ii. Sales Overview DASHBOARD
+
 2  Sales Overview
 
 iii. Customer Details DASHBOARD
+
 3  Customer Details
 
 iv. Product Details DASHBOARD
+
 4  Product Details
