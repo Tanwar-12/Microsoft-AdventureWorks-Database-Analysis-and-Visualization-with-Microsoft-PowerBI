@@ -13,6 +13,8 @@ Visualization Tool: "Microsoft Power BI"
 
 ## DATA VISUALIZATION
 i. Entity Relationship Diagram Model
+![image](https://github.com/Tanwar-12/Microsoft-AdventureWorks-Database-Analysis-and-Visualization-with-Microsoft-PowerBI/assets/110081008/6fc3b472-2368-49c1-b01f-4f51190fd484)
+
 
 1  Model Relations
 
