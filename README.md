@@ -18,6 +18,7 @@ i. Entity Relationship Diagram Model
 
 ii. Sales Overview DASHBOARD
 
+![image](https://github.com/Tanwar-12/Microsoft-AdventureWorks-Database-Analysis-and-Visualization-with-Microsoft-PowerBI/assets/110081008/9a7717b7-4c4c-4583-8c53-ddfc36500b95)
 
 
 iii. Customer Details DASHBOARD
