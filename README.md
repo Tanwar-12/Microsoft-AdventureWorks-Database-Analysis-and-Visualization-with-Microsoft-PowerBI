@@ -23,6 +23,7 @@ ii. Sales Overview DASHBOARD
 
 iii. Customer Details DASHBOARD
 
+![image](https://github.com/Tanwar-12/Microsoft-AdventureWorks-Database-Analysis-and-Visualization-with-Microsoft-PowerBI/assets/110081008/ea628280-8380-4f31-bb17-d7d079830f8e)
 
 
 iv. Product Details DASHBOARD
